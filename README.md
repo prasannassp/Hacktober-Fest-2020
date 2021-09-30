@@ -170,8 +170,8 @@ Navigate to your forked repository, and press the “New pull request” button 
 
 # Contributers aka Hackers
 
-<a href="https://github.com/shradhaagarwal01/HacktoberFest-2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shradhaagarwal01/HacktoberFest-2021" />
+<a href="https://github.com/shradhaagarwal01/hacktoberfest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shradhaagarwal01/hacktoberfest-2021" />
 </a>
 
 
