@@ -1,5 +1,5 @@
 # HacktoberFest-2021
-Repository designed for beginner to contribute to open-source 
+Repository designed for beginners to contribute to open-source 
 
 
 ## ❓ What is Hacktoberfest 2021?
@@ -27,24 +27,30 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ## How to contribute
 Submit your pull request here for HacktoberFest-2021 in any language you prefer.
+You can submit any project of your choice.
+Read the instructions below, follow them.
 
-👕 Win Your T-Shirt
+### Must do things: 
 
-In past years, shirts have arrived in November or December, depending on how far you live from San Francisco.
+1. Update project list in [index.html](https://github.com/shradhaagarwal01/HacktoberFest-2021/index.html) in this format
 
-The Digital Ocean team should eventually contact you asking for your shirt size and shipping address. (Keep in mind they are shipping 40,000 shirts so this process will take a while.) And yes, they will ship internationally.
+ ```html
+ <li><h2>{Project Number}: {Project Name}</h2><iframe src={link to index file} width="100%" height="500" frameBorder='0'></iframe></li>
+ ```
+2. Update folder structure [here](# folder structure)
+   Take help from this [article](https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1)
 
-Don’t miss this opportunity. Start contributing to open source and get a limited edition T-shirt for Free! And also, Stickers!
+## Folder Structure
 
-# Event details
-Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+### Projects
 
-Hacktoberfest is open to everyone in our global community!
-Pull requests can be made in any GitHub-hosted repositories/projects.
-Sign up anytime between October 1 and October 31.
-
-# Rules
-To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
+* [email-signature-template/](./Projects/email-signature-template)
+  * [email-signature-template.html](./Projects/email-signature-template/email-signature-template.html)
+* [survey-form/](./Projects/survey-form)
+  * [index.html](./Projects/survey-form/index.html)
+  * [style.css](./Projects/survey-form/style.css)
+* [visiting_fbform/](./Projects/visiting_fbform)
+  * [feedback.html](./Projects/visiting_fbform/feedback.html)
 
 
 ## Getting Started
@@ -162,5 +168,11 @@ Navigate to your forked repository, and press the “New pull request” button 
 
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
 
-Note : A star and a follow would be much appreciated. 
+# Contributers aka Hackers
+
+<a href="https://github.com/shradhaagarwal01/HacktoberFest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shradhaagarwal01/HacktoberFest-2021" />
+</a>
+
+Note : A star and a follow would be much appreciated. For any queries, feel free to reach out to me.
 Happy Hacking!
