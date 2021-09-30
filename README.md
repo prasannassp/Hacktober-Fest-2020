@@ -32,7 +32,7 @@ Read the instructions below, follow them.
 
 ### Must do things: 
 
-1. Update project list in [index.html](https://github.com/shradhaagarwal01/HacktoberFest-2021/index.html) in this format
+1. Update project list in [index.html](https://github.com/shradhaagarwal01/HacktoberFest-2021/blob/main/index.html) in this format
 
  ```html
  <li><h2>{Project Number}: {Project Name}</h2><iframe src={link to index file} width="100%" height="500" frameBorder='0'></iframe></li>
@@ -173,6 +173,7 @@ Navigate to your forked repository, and press the “New pull request” button 
 <a href="https://github.com/shradhaagarwal01/HacktoberFest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shradhaagarwal01/HacktoberFest-2021" />
 </a>
+
 
 Note : A star and a follow would be much appreciated. For any queries, feel free to reach out to me.
 Happy Hacking!
